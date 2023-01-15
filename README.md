@@ -1,2 +1,3 @@
 # BTranslate
-B - Language Translator
+
+BTranslate
